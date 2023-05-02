@@ -14,3 +14,6 @@ jobs:
 
     - name: Publish package distributions to PyPI
       uses: pypa/gh-action-pypi-publish@release/v1
+      with:
+        user: Marcc70
+        password: ${{ secrets.password }}
