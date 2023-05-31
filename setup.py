@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="Streamlit-DragDropList",
-    version="0.0.1",
+    version="0.0.2",
     author="Marc B",
     author_email="none@gmail.com",
     description="Streamlit component of draggable list",
