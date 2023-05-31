@@ -1,7 +1,7 @@
 Streamlit component
 Example:
 
-> pip install streamlit-component-DragDrop </br>
+> pip install Streamlit-DragDropList </br>
 
 
 <code>
